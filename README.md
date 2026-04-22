@@ -1,6 +1,6 @@
 # 🏨 Hotel Management Analytics System
 
-## 📌 Objective
+##  Objective
 Developed a data-driven hotel management system to analyze booking data, revenue trends, and occupancy rates using SQL and Power BI.
 
 ## 🛠 Tools & Technologies
@@ -18,9 +18,6 @@ Developed a data-driven hotel management system to analyze booking data, revenue
 - Identified peak booking periods and revenue trends
 - Analyzed customer booking patterns
 - Improved visibility of hotel performance metrics
-
-## 📷 Dashboard Preview
-(Add screenshots here)
 
 ## 📁 Files Included
 - hotel-management-pbix
