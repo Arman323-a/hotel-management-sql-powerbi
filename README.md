@@ -22,3 +22,5 @@ Developed a data-driven hotel management system to analyze booking data, revenue
 ## 📁 Files Included
 - hotel-management-pbix
 
+![Dashboard](screenshot1.png)
+![Dashboard](screenshot2.png)
